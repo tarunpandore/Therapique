@@ -225,9 +225,17 @@ Therapique/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Author
+## 👥 Team & Contributions
 
-**RISHAB-999** - [GitHub Profile](https://github.com/RISHAB-999)
+This project was developed collaboratively:
+
+- **Ishaan Jain** ([GitHub](https://github.com/ishaanj26)): Backend architecture, MongoDB schema design, payment integration (Razorpay/Stripe), and admin APIs.
+- **Rishab Negi** ([GitHub](https://github.com/RISHAB-999)): Platform setup and initial doctor booking integration. *(Git log contains 3 commits under `Natsu <natsud2076@gmail.com>` [confirm: Natsu commit author]).*
+- **Tarun Pandore** ([GitHub](https://github.com/tarunpandore)):
+  - **WebRTC Video Calling UI**: Video-call interface components, camera and microphone toggles (`29f9fa9`, `a8ac040`, `c3cdca4`).
+  - **Appointment Page & Panel Fixes**: Resolved appointment booking layout bugs and reconciled UI discrepancies between Admin and User panels (`2c98ddb`, `67dab98`).
+  - **Production Build Debugging**: Fixed build errors and consolidated shared components for production deployment (`23e883b`, `19b6d05`).
+  - **Frontend UI & Theming**: Home page redesign, global color palette adjustments, and responsive styling (`b639a43`, `af70ba2`, `b8f6f11`, `867f87e`, `4500d36`).
 
 ## 🙏 Acknowledgments
 
